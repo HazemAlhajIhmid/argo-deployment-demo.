@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TechCare - أمراض القلب</string>
+    <string name="app_title">حاسبة أمراض القلب</string>
+    <string name="university">الجامعة الافتراضية السورية</string>
+    <string name="ministry">وزارة التعليم العالي - الجمهورية العربية السورية</string>
+
+    <!-- Input Labels -->
+    <string name="age">العمر</string>
+    <string name="sex">الجنس</string>
+    <string name="male">ذكر</string>
+    <string name="female">أنثى</string>
+    <string name="chest_pain">نوع ألم الصدر</string>
+    <string name="blood_pressure">ضغط الدم</string>
+    <string name="cholesterol">الكوليسترول</string>
+    <string name="fasting_blood_sugar">سكر الدم الصيامي</string>
+    <string name="resting_ecg">تخطيط القلب</string>
+    <string name="max_heart_rate">أقصى معدل لضربات القلب</string>
+    <string name="exercise_angina">الذبحة الصدرية</string>
+    <string name="st_depression">انخفاض ST</string>
+    <string name="slope">ميل ST</string>
+    <string name="vessels">عدد الأوعية</string>
+    <string name="thalassemia">الثلاسيميا</string>
+
+    <!-- Buttons -->
+    <string name="calculate">احسب المخاطر</string>
+    <string name="reset">إعادة تعيين</string>
+
+    <!-- Results -->
+    <string name="results_title">نتائج التقييم</string>
+    <string name="risk_level">مستوى المخاطر</string>
+    <string name="low_risk">خطر منخفض</string>
+    <string name="moderate_risk">خطر متوسط</string>
+    <string name="high_risk">خطر مرتفع</string>
+
+    <!-- Navigation -->
+    <string name="home">الرئيسية</string>
+    <string name="calculator">الحاسبة</string>
+    <string name="about">حول</string>
+
+    <!-- About -->
+    <string name="student_name">حازم خضر الحاج احميد</string>
+    <string name="supervisor_main">د.م. جورج أنور كراز</string>
+    <string name="supervisor_co">د. ماجدة البكور</string>
+    <string name="thesis_title">تطوير خوارزميات التنقيب عن البيانات في تحسين عملية تشخيص أمراض القلب</string>
+
+    <!-- Errors -->
+    <string name="error_network">خطأ في الاتصال بالشبكة</string>
+    <string name="error_prediction">حدث خطأ أثناء التنبؤ</string>
+    <string name="error_validation">يرجى ملء جميع الحقول بشكل صحيح</string>
+</resources>
